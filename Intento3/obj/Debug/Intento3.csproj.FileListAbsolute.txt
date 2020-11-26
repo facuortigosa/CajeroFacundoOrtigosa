@@ -1,0 +1,7 @@
+C:\Users\PC - 1\source\repos\Intento3\Intento3\obj\Debug\Intento3.csprojAssemblyReference.cache
+C:\Users\PC - 1\source\repos\Intento3\Intento3\obj\Debug\Intento3.csproj.CoreCompileInputs.cache
+C:\Users\PC - 1\source\repos\Intento3\Intento3\bin\Debug\Intento3.exe.config
+C:\Users\PC - 1\source\repos\Intento3\Intento3\bin\Debug\Intento3.exe
+C:\Users\PC - 1\source\repos\Intento3\Intento3\bin\Debug\Intento3.pdb
+C:\Users\PC - 1\source\repos\Intento3\Intento3\obj\Debug\Intento3.exe
+C:\Users\PC - 1\source\repos\Intento3\Intento3\obj\Debug\Intento3.pdb

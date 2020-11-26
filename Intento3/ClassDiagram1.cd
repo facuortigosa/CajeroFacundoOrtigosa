@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Intento3.Cuenta">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAAQEAAACAAAAEAAAAAAAAIAQAQAAEAA=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.BaseDatosBanco">
+    <Position X="3" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEQEAAEAAAAQAAAAAAIAAAAAAQAAEAA=</HashCode>
+      <FileName>BaseDatosBanco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Transaccion">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAgBAAAAAAAAQAAQAEAAAAAAAAAA=</HashCode>
+      <FileName>Transaccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Cajero">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Intento3.Cajero.OpcionMenu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Cajero.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABACAACEAAAAABDAEAAAAAAQAAABAQAAAAAAAIA=</HashCode>
+      <FileName>Cajero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.CajeroPrueba1" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CajeroPrueba1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Deposito" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAgAAAAAAgAhAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.DispensadorEfectivo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DispensadorEfectivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Pantalla" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAABAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pantalla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.RanuraDeposito" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RanuraDeposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Retiro" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAgAEAAAAAAhAAAAAAAAAACQAAAAAAAAAAAA=</HashCode>
+      <FileName>Retiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.SolicitudSaldo" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SolicitudSaldo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intento3.Teclado" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teclado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
